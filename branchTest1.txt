@@ -1,2 +1,3 @@
 メイン文書
-    メイン文書追加(main)
+    メイン文書を追加
+    mainBranchTest
